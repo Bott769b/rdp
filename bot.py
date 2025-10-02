@@ -8,8 +8,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # ===== KONFIGURASI =====
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # Ganti dengan ID Telegram Anda
+BOT_TOKEN = "8063036887:AAHGyVndulKMI1m1G_ae8_DTAaV2lZ-CWtc"
+ADMIN_IDS = [8016633781]  # Ganti dengan ID Telegram Anda
 
 # Setup logging
 logging.basicConfig(
