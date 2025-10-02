@@ -1,0 +1,26 @@
+{
+  "server_2019": {
+    "name": "Windows Server 2019",
+    "script": "install_windows.sh",
+    "size": "15GB",
+    "notes": "Standard Edition - Recommended"
+  },
+  "server_2022": {
+    "name": "Windows Server 2022", 
+    "script": "install_windows.sh",
+    "size": "16GB",
+    "notes": "Standard Edition - Latest"
+  },
+  "win_10": {
+    "name": "Windows 10 Pro",
+    "script": "install_windows.sh",
+    "size": "12GB",
+    "notes": "22H2 Version - Stable"
+  },
+  "win_11": {
+    "name": "Windows 11 Pro",
+    "script": "install_windows.sh", 
+    "size": "13GB",
+    "notes": "23H2 Version - Modern"
+  }
+}
